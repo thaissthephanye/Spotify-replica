@@ -5,9 +5,9 @@ const Main = () => {
   return (
     <div className="main">
       {/* Item List de Artistas */}
-      <ItemList title="Artistas" />
+      <ItemList title="Artistas" items={5} />
       {/* Item List de Músicas */}
-      <ItemList title="Músicas" />
+      <ItemList title="Músicas" items={10} />
     </div>
   );
 };
