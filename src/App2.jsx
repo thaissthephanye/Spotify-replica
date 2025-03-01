@@ -45,3 +45,40 @@ export default App2;
 //tag vazia em React se chama Fragment ou Fragmento
 
 //componentes recebem "props"
+
+// {items === 5 ? (
+//   <>
+//     <SingleItem />
+//     <SingleItem />
+//     <SingleItem />
+//     <SingleItem />
+//     <SingleItem />
+//   </>
+// ) : (
+//   <>
+//     <SingleItem />
+//     <SingleItem />
+//     <SingleItem />
+//     <SingleItem />
+//     <SingleItem />
+//     <SingleItem />
+//     <SingleItem />
+//     <SingleItem />
+//     <SingleItem />
+//     <SingleItem />
+//   </>
+// )}
+
+/* <div className="item-list__container">
+          {Array(items)
+            .fill()
+            .map((currentValue, index) => (
+              <SingleItem
+                key={`${title} ${index}  
+              `}
+              /> */
+
+// id={currObj.id}
+// name={currObj.name}
+// image={currObj.image}
+// banner={currObj.banner}
