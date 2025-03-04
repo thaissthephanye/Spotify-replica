@@ -1,5 +1,5 @@
 import React from "react";
-import { faCirclePlay } from "@fortawesome/free-regular-svg-icons";
+import { faCirclePlay } from "@fortawesome/free-solid-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { Link } from "react-router-dom";
 
