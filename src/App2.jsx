@@ -82,3 +82,9 @@ export default App2;
 // name={currObj.name}
 // image={currObj.image}
 // banner={currObj.banner}
+
+// quando componentes se rerenderiza
+// uma das ocasiões é quando uma variavel
+// é usada por esse componente é atualizada
+
+//hooks no react
