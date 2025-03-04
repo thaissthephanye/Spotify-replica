@@ -21,7 +21,7 @@ const Artist = () => {
   );
   const randomIdFromArtist = songsArrayFromArtist[randomIndex].id;
 
-  console.log(randomIdFromArtist);
+  // console.log(randomIdFromArtist);
   // console.log(Math.floor(Math.random() * (songsArrayFromArtist.length - 1)));
   // console.log(songsArrayFromArtist.length);
 
