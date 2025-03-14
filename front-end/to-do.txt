@@ -1,6 +1,6 @@
 - construir a API - ok
 - conexão com banco de dados - ok
 - conectar o front com o back - ok
+- lógica do player - ok
 
-- lógica do player
 - deploy
