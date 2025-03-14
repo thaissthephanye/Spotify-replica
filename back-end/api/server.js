@@ -7,7 +7,6 @@ import express from "express";
 import cors from "cors";
 import { db } from "./connect.js";
 import path from "path";
-import express from "express";
 import { fileURLToPath } from "url";
 import { dirname, join } from "path";
 
