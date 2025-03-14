@@ -7,6 +7,8 @@ import express from "express";
 import cors from "cors";
 import { db } from "./connect.js";
 import path from "path";
+import { fileURLToPath } from "url";
+import { dirname } from "path";
 
 const app = express();
 const PORT = 3012;
